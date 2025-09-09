@@ -1,0 +1,16 @@
+bol Enter n; 
+bhai n = padh();
+
+chal i = 2 se n;
+    bhai isPrime = 1;
+    chal j = 2 se i-1;
+        agar i % j == 0;
+            isPrime = 0;
+            ruk;
+        ruk;
+    agar isPrime == 1;
+        bol i;
+    ruk;
+ruk;
+hi bhai;
+bye bhai;
