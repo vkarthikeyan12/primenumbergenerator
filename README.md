@@ -22,4 +22,4 @@ bhai prime_generator.bh
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](Screenshot.png)
